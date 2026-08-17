@@ -21,4 +21,4 @@ An automated intelligence briefing workflow built in **n8n**. It aggregates mult
 2. Connect your **Groq API** credentials.
 3. Set up your **Telegram Bot** token and destination chat ID.
 
-📩 **Contact & Custom Solutions:** [My Telegram Channel](https://t.me/vladiksonchik)
+📩 **Contact & Custom Solutions:** [My Telegram Channel - Workflow & Scripts](https://t.me/vladiksonchik)
